@@ -1,6 +1,6 @@
 ![logo](https://github.com/singhprincekumar12006011/singhprincekumar12006011/blob/master/2.png)
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">A passionate Java developer and Data Analist from India.</h3>
+<h3 align="center">A passionate Java developer and Data Analyst from India.</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/programming-coding-kira-lena-urzendowsky-yl7f6xjkodtr9eul.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhprincekumar12006011&label=Profile%20views&color=0e75b6&style=flat" alt="singhprincekumar12006011" /> </p>
 
